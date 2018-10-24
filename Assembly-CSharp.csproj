@@ -63,6 +63,8 @@
   <ItemGroup>
     <Compile Include="Assets\GalaxyBox2\Scripts\examplescene.cs" />
     <Compile Include="Assets\GalaxyBox2\Scripts\MouseLook.cs" />
+    <Compile Include="Assets\GameManager.cs" />
+    <Compile Include="Assets\StartGame.cs" />
     <Compile Include="Assets\Yurowm\Demo\Scripts\Actions.cs" />
     <Compile Include="Assets\Yurowm\Demo\Scripts\CharacterPanel.cs" />
     <Compile Include="Assets\Yurowm\Demo\Scripts\CharacterViewer.cs" />
