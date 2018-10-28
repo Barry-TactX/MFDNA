@@ -64,24 +64,28 @@
     <Compile Include="Assets\GalaxyBox2\Scripts\examplescene.cs" />
     <Compile Include="Assets\GalaxyBox2\Scripts\MouseLook.cs" />
     <Compile Include="Assets\GameManager.cs" />
+    <Compile Include="Assets\Rocks and Boulders 2\Shaders\RotateGameObject.cs" />
     <Compile Include="Assets\StartGame.cs" />
     <Compile Include="Assets\Yurowm\Demo\Scripts\Actions.cs" />
     <Compile Include="Assets\Yurowm\Demo\Scripts\CharacterPanel.cs" />
     <Compile Include="Assets\Yurowm\Demo\Scripts\CharacterViewer.cs" />
     <Compile Include="Assets\Yurowm\Demo\Scripts\PlayerController.cs" />
+    <None Include="Assets\Rocks and Boulders 2\Shaders\shader info.txt" />
     <None Include="Assets\GalaxyBox2\instructions.txt" />
     <None Include="Assets\Yurowm\Shaders\SkinShader.shader" />
+    <None Include="Assets\Rocks and Boulders 2\Shaders\Blend SM3.shader" />
+    <None Include="Assets\Rocks and Boulders 2\Shaders\Blend SM2.shader" />
     <Reference Include="UnityEditor.StandardEvents">
-      <HintPath>C:/Users/Anne/Documents/GitHub/MFDNA/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+      <HintPath>F:/MFDNA/MFDNA/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>C:/Users/Anne/Documents/GitHub/MFDNA/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>F:/MFDNA/MFDNA/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>C:/Users/Anne/Documents/GitHub/MFDNA/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+      <HintPath>F:/MFDNA/MFDNA/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>C:/Users/Anne/Documents/GitHub/MFDNA/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>F:/MFDNA/MFDNA/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -282,10 +286,10 @@
       <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnitySpatialTracking/RuntimeEditor/UnityEngine.SpatialTracking.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.Analytics">
-      <HintPath>C:/Users/Anne/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.analytics@2.0.16/UnityEngine.Analytics.dll</HintPath>
+      <HintPath>C:/Users/Robin-PC/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.analytics@2.0.16/UnityEngine.Analytics.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.StandardEvents">
-      <HintPath>C:/Users/Anne/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.standardevents@1.0.13/UnityEngine.StandardEvents.dll</HintPath>
+      <HintPath>C:/Users/Robin-PC/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.standardevents@1.0.13/UnityEngine.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="mscorlib">
       <HintPath>C:/Program Files/Unity/Editor/Data/MonoBleedingEdge/lib/mono/unity/mscorlib.dll</HintPath>
